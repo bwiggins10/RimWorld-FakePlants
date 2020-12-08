@@ -27,8 +27,11 @@
 			<li>Decorative</li>
 		</sowTags>
 		<growMinGlow>0.00</growMinGlow>
+		<growDays>0</growDays>
+		<lifespanDaysPerGrowDays>0</lifespanDaysPerGrowDays>
 		<visualSizeRange>1.05~1.05</visualSizeRange>
 		<purpose>Beauty</purpose>
+		<neverBlightable>true</neverBlightable>
 	</plant>
 	</ThingDef>
 	
@@ -59,8 +62,11 @@
 			<li>Decorative</li>
 		</sowTags>
 		<growMinGlow>0.00</growMinGlow>
+		<growDays>0</growDays>
+		<lifespanDaysPerGrowDays>0</lifespanDaysPerGrowDays>
 		<visualSizeRange>1.05~1.05</visualSizeRange>
 		<purpose>Beauty</purpose>
+		<neverBlightable>true</neverBlightable>
 	</plant>
 	</ThingDef>
 </Defs>
